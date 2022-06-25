@@ -1,7 +1,7 @@
 # Seawave Forwarding and Logistics
 
 <p align="center">
-  <img src="./images/seawave-logo1.png" style="width: 50%;">
+  <img src="./seawave-logo1.png" style="width: 50%;">
 </p>
 <p align="center"> 
   
